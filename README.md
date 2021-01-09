@@ -39,12 +39,12 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="GuardianDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheGuardianDev&show_icons=true&hide_border=true" />
+  <img align="left" alt="GuardianDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Guard1anDev&show_icons=true&hide_border=true" />
 
 </details>
 
 [website]: https://simoncourtois.com
-[twitter]: https://twitter.com/SimonCrts
+[twitter]: https://twitter.com/S1moncourtois
 [youtube]: https://www.youtube.com/channel/UCPxZxlTRQMSqYSp1MS91J4A?view_as=subscriber
-[instagram]: https://www.instagram.com/s1moncourtois/
+[instagram]: https://www.instagram.com/S1moncourtois
 [linkedin]: https://www.linkedin.com/in/simon-courtois-515b031b5/
